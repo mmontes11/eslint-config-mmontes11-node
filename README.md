@@ -4,7 +4,7 @@
 
 [![NPM](https://nodei.co/npm/eslint-config-mmontes11-node.png)](https://nodei.co/npm/eslint-config-mmontes11-node)
 
-Esling config for ES6 NodeJS by Martin Montes. It extends [airbnb-base](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb-base) and [prettier](https://github.com/prettier/prettier).
+Esling config for ES6 NodeJS by Martín Montes. It extends [airbnb-base](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb-base) and [prettier](https://github.com/prettier/prettier).
 
 ### Install
 
