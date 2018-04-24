@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-mmontes11-node",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Eslint config for ES6 NodeJS by Martin Montes Edit",
   "main": "index.js",
   "scripts": {

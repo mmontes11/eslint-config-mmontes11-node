@@ -2,9 +2,7 @@ module.exports = {
   parser: "babel-eslint",
   env: {
     es6: true,
-    node: true,
-    mongo: true,
-    mocha: true,
+    node: true
   },
   extends: ["airbnb-base", "prettier"],
   plugins: ["prettier"],
