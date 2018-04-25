@@ -8,6 +8,7 @@ module.exports = {
   plugins: ["prettier"],
   rules: {
     "import/no-dynamic-require": 0,
+    "import/prefer-default-export": 0,
     "no-underscore-dangle": 0,
     "no-console": 1,
     "prettier/prettier": "error",
