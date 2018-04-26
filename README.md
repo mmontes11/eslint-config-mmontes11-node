@@ -23,7 +23,7 @@ Create an `.eslintrc`:
 
 ### Prettier
 
-You can redefine prettier default rules creating a `.prettierrc`:
+You can redefine prettier default rules by creating a `.prettierrc`:
 ```
 {
   "printWidth": 120,
