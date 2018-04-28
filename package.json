@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-mmontes11-node",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Eslint config for ES6 NodeJS by Martin Montes Edit",
   "main": "index.js",
   "scripts": {
@@ -29,6 +29,7 @@
     "eslint": "^4.19.1",
     "eslint-config-airbnb-base": "^12.1.0",
     "eslint-config-prettier": "^2.9.0",
+    "eslint-import-resolver-node": "^0.3.2",
     "eslint-plugin-import": "^2.11.0",
     "eslint-plugin-prettier": "^2.6.0",
     "prettier": "^1.12.1"
