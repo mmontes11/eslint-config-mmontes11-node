@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-mmontes11-node",
   "version": "1.0.5",
-  "description": "Eslint config for ES6 NodeJS by Martin Montes Edit",
+  "description": "Eslint config for ES6 NodeJS by Martin Montes",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
