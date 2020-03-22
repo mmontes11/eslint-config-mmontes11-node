@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-mmontes11-node",
-  "version": "1.0.5",
-  "description": "Eslint config for ES6 NodeJS by Martin Montes",
+  "version": "2.0.0",
+  "description": "Eslint config for NodeJS by Martin Montes",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,7 +14,6 @@
     "eslint",
     "config",
     "eslint-config",
-    "es6",
     "nodejs",
     "node"
   ],
@@ -25,13 +24,13 @@
   },
   "homepage": "https://github.com/mmontes11/eslint-config-mmontes11-node#readme",
   "dependencies": {
-    "babel-eslint": "^8.2.3",
-    "eslint": "^4.19.1",
-    "eslint-config-airbnb-base": "^12.1.0",
-    "eslint-config-prettier": "^2.9.0",
-    "eslint-import-resolver-node": "^0.3.2",
-    "eslint-plugin-import": "^2.11.0",
-    "eslint-plugin-prettier": "^2.6.0",
-    "prettier": "^1.12.1"
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-config-prettier": "^6.0.1",
+    "eslint-import-resolver-node": "^0.3.3",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-prettier": "^3.1.2",
+    "prettier": "^2.0.1"
   }
 }
